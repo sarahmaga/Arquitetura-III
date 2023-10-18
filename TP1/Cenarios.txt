@@ -1,0 +1,25 @@
+Memória cache:
+
+Cenário 1- 
+- Usar mapeamento direto e variar tamanho da linha
+- Observar o aumento de desempenho até certo ponto
+
+blockSize = 1 - 4 miss
+blockSize = 2 - 2 miss
+blockSize = 4 - 1 miss
+
+
+Cenário 2- 
+
+Cenário 3- 
+
+---------------------------------------
+
+Memória virtual
+
+Cenário 1- 
+
+Cenário 2- 
+
+Cenário 3- 
+
